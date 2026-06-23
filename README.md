@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/astitwaroy"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/astitwa-roy-8a7656291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.https://www.linkedin.com/in/astitwa-kumar-ray-8a7656291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=astitwaroy&color=blueviolet&style=flat-square" />
 </p>
 
