@@ -34,10 +34,10 @@
 ### 🚀 Recent projects
 
 - 🏥 **[ClinicQ](https://github.com/astitwaroy/ClinicQ)** — a live token queue for small clinics. Patients book a token from their phone and watch their place in line in real time; reception calls the next patient and a waiting-room TV shows who's being seen.
-  <br/>`React` `TypeScript` `Node.js` `Express` `Socket.IO` `PostgreSQL` · 🔗 Live demo: *deploying soon*
+  <br/>`React` `TypeScript` `Node.js` `Express` `Socket.IO` `PostgreSQL` · 🔗 [Live demo](https://clinicq-84sn.onrender.com)
 
 - 🎓 **[ScholarBuddy](https://github.com/astitwaroy/ScholarBuddy)** — helps Indian students find scholarships they qualify for. A rule-based eligibility checker plus document-grounded Q&A (RAG) that cites the exact clauses from official guidelines.
-  <br/>`Python` `FastAPI` `PostgreSQL + pgvector` `Gemini embeddings` `React` · 🔗 Live demo: *deploying soon*
+  <br/>`Python` `FastAPI` `PostgreSQL + pgvector` `Gemini embeddings` `React` · 🔗 [Live demo](https://scholarsathi.onrender.com)
 
 - 🧠 **[AKAI](https://github.com/astitwaroy/AKAI)** — a from-scratch C++ vector database with a web UI that benchmarks HNSW, KD-Tree and brute-force search, plus a fully local RAG pipeline. *(team project)*
   <br/>`C++` `cpp-httplib` `Ollama` `nomic-embed-text` `Llama 3.2`
@@ -46,7 +46,7 @@
   <br/>`MongoDB` `Express` `React` `Node.js` `JWT` `Tailwind` · 🔗 [Live site](https://hackathon-frontend1-iy6j.onrender.com) · [API](https://hackathon-backend1-akuo.onrender.com)
 
 - 🦾 **[Visual Servoing — 2D Arm Simulation](https://github.com/astitwaroy/Visual-servoing-2D-arm-simulation)** — a two-link planar robot arm that tracks a randomly moving target using camera-style feedback and inverse kinematics (GIF demos in the repo).
-  <br/>`Python`
+  <br/>`Python` · 🔗 [Live demo](https://astitwaroy.github.io/Visual-servoing-2D-arm-simulation/)
 
 - 🤝 Contributing to [`RAJ8664/Prep`](https://github.com/RAJ8664/Prep), an open-source CS learning platform
 
