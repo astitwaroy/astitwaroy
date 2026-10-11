@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://codeforces.com/profile/astitwaroy"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
-  <a href="https://www.https://www.linkedin.com/in/astitwa-kumar-ray-8a7656291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/astitwa-kumar-ray-8a7656291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=astitwaroy&color=blueviolet&style=flat-square" />
 </p>
 
@@ -31,12 +31,23 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-### What I'm working on
+### 🚀 Recent projects
 
-- 🔍 [`Packet-Analyser`](https://github.com/astitwaroy/Packet-Analyser) — a C++ tool for inspecting network packets
-- 🤖 [`RAG-Chatbot`](https://github.com/astitwaroy/RAG-Chatbot) — a retrieval-augmented chatbot, exploring how RAG pipelines work in practice
-- ✋ [`GesturePlay-Youtube`](https://github.com/astitwaroy/GesturePlay-Youtube) — controlling YouTube playback with hand gestures (Python/CV)
-- 🧮 [`Leetcode`](https://github.com/astitwaroy/Leetcode) — my ongoing collection of solved interview problems
+- 🏥 **[ClinicQ](https://github.com/astitwaroy/ClinicQ)** — a live token queue for small clinics. Patients book a token from their phone and watch their place in line in real time; reception calls the next patient and a waiting-room TV shows who's being seen.
+  <br/>`React` `TypeScript` `Node.js` `Express` `Socket.IO` `PostgreSQL` · 🔗 Live demo: *deploying soon*
+
+- 🎓 **[ScholarBuddy](https://github.com/astitwaroy/ScholarBuddy)** — helps Indian students find scholarships they qualify for. A rule-based eligibility checker plus document-grounded Q&A (RAG) that cites the exact clauses from official guidelines.
+  <br/>`Python` `FastAPI` `PostgreSQL + pgvector` `Gemini embeddings` `React` · 🔗 Live demo: *deploying soon*
+
+- 🧠 **[AKAI](https://github.com/astitwaroy/AKAI)** — a from-scratch C++ vector database with a web UI that benchmarks HNSW, KD-Tree and brute-force search, plus a fully local RAG pipeline. *(team project)*
+  <br/>`C++` `cpp-httplib` `Ollama` `nomic-embed-text` `Llama 3.2`
+
+- 🏆 **[Hackathon-Management](https://github.com/astitwaroy/Hackathon-Management)** — a MERN platform for running a hackathon: registration, teams, online quizzes, payment-proof verification, admin dashboard, certificates and a live leaderboard. *(team project)*
+  <br/>`MongoDB` `Express` `React` `Node.js` `JWT` `Tailwind` · 🔗 [Live site](https://hackathon-frontend1-iy6j.onrender.com) · [API](https://hackathon-backend1-akuo.onrender.com)
+
+- 🦾 **[Visual Servoing — 2D Arm Simulation](https://github.com/astitwaroy/Visual-servoing-2D-arm-simulation)** — a two-link planar robot arm that tracks a randomly moving target using camera-style feedback and inverse kinematics (GIF demos in the repo).
+  <br/>`Python`
+
 - 🤝 Contributing to [`RAJ8664/Prep`](https://github.com/RAJ8664/Prep), an open-source CS learning platform
 
 ### Currently learning / exploring
@@ -75,5 +86,3 @@
 ---
 
 <p align="center"><i>Open to backend and systems-focused collaborations — feel free to reach out.</i></p>
-
-
