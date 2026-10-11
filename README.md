@@ -1,62 +1,124 @@
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=58A6FF&vCenter=true&width=820&height=36&lines=Backend+developer+%C2%B7+C%2B%2B+%C2%B7+competitive+programmer;Building+software+that+real+people+use;Currently+exploring+RAG%2C+LLMs+and+computer+vision" />
-
-<a href="https://www.linkedin.com/in/astitwa-kumar-ray-8a7656291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/RockkLee"><img src="https://img.shields.io/badge/Codeforces-RockkLee-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" /></a>
-
-I'm a final-year Computer Science student at **NIT Silchar**. I enjoy taking everyday problems and turning them into reliable software, mostly on the backend: APIs, databases and real-time systems. All three of my featured projects are live, so you can try them below.
-
-<br>
-
-| **1536** | **1638** | **1000+** | **3** |
-|:---:|:---:|:---:|:---:|
-| Codeforces max rating<br><sub>current 1473</sub> | LeetCode contest rating | DSA & competitive<br>programming problems solved | Live applications |
-
-<br>
-
-### Featured projects
-
-**ClinicQ** · *Live queue system for clinics*<br>
-Patients take a token from their phone and see their place in line update in real time, so they don't have to wait in a crowded room. The doctor's desk and the waiting-room screen stay in sync, and wait estimates adjust to how fast the doctor is actually seeing patients.<br>
-<sub>React · TypeScript · Node.js · PostgreSQL · Socket.IO — no duplicate or skipped tokens even with 25 simultaneous bookings · 30 automated tests</sub><br>
-[Live demo ↗](https://clinicq-84sn.onrender.com) · [Source code](https://github.com/astitwaroy/clinicq)
-
-**ScholarBuddy** · *AI assistant for finding scholarships*<br>
-Students ask questions in plain language and get answers backed by official government guidelines, with the exact source quoted. A built-in eligibility check shows clearly which rules they meet, which they don't, and what still needs checking.<br>
-<sub>Python · FastAPI · PostgreSQL + pgvector · Gemini · React — right scheme ranked first in 97% of test questions · every quote verified against the source</sub><br>
-[Live demo ↗](https://scholarsathi.onrender.com) · [Source code](https://github.com/astitwaroy/ScholarBuddy)
-
-**ServoLab** · *Robot arm that tracks a moving target*<br>
-A simulated two-joint robot arm keeps chasing a target that moves in a circle or along an unpredictable path, recalculating its joint angles 20 times a second to stay locked on. In the browser demo you can drag the target yourself, tune the controller and watch the tracking error live.<br>
-<sub>Python · JavaScript — closed-form inverse kinematics · closed-loop visual-servoing control · runs fully in the browser</sub><br>
-[Live demo ↗](https://astitwaroy.github.io/Visual-servoing-2D-arm-simulation/) · [Source code](https://github.com/astitwaroy/Visual-servoing-2D-arm-simulation)
-
-<sub>ClinicQ and ScholarBuddy run on free hosting and may take about a minute to load on the first visit.</sub>
-
-<br>
-
-### Tech stack
-
-<img src="https://skillicons.dev/icons?i=cpp,python,ts,js,kotlin,react,nodejs,fastapi,postgres,opencv,docker,git,linux&theme=dark" />
-
-<br>
-
-### GitHub & Codeforces
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=astitwaroy&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="160" />
-  <img src="https://streak-stats.demolab.com/?user=astitwaroy&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" height="160" />
-</p>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astitwaroy&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" />
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=RockkLee&theme=github_dark" height="160" />
+<p align="center">
+  <img src="./assets/banner.jpg" alt="Astitwa Ray" width="100%" />
 </p>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astitwaroy/astitwaroy/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astitwaroy/astitwaroy/output/github-snake.svg" />
-  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/astitwaroy/astitwaroy/output/github-snake.svg" />
-</picture>
+<h2 align="center">Hi 👋, I'm Astitwa Kumar Ray</h2>
 
-<br>
+<p align="center">
+  <b>Backend Developer · Competitive Programmer · CSE @ NIT Silchar</b>
+</p>
 
-*Open to internships, full-time roles and backend collaborations. The best way to reach me is [LinkedIn](https://www.linkedin.com/in/astitwa-kumar-ray-8a7656291/).*
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=8FB3FF&center=true&vCenter=true&width=560&height=30&lines=Building+software+real+people+use;Exploring+RAG%2C+LLMs+%26+Computer+Vision;1000%2B+DSA+problems+and+counting" />
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/astitwa-kumar-ray-8a7656291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://codeforces.com/profile/RockkLee"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</p>
+
+---
+
+### 👨‍💻 About me
+
+I'm a final-year Computer Science student at **NIT Silchar** who enjoys turning everyday problems into **reliable, well-built software**. I work mostly on the **backend**: APIs, databases and real-time systems, and I care about clean architecture and code that holds up under real use.
+
+Outside of projects, I solve algorithm problems for fun, with **1000+ DSA and competitive programming problems** solved so far.
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Codeforces-1473%20%C2%B7%20max%201536-1F8ACB?style=flat-square&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/LeetCode-1638-FFA116?style=flat-square&labelColor=161b22" />
+  <img src="https://img.shields.io/badge/Problems%20solved-1000%2B-8FB3FF?style=flat-square&labelColor=161b22" />
+</p>
+
+---
+
+### 🚀 Currently building
+
+| Project | What it does | |
+|---|---|---|
+| 🏥 **ClinicQ** | Lets patients join a clinic queue from their phone and watch their turn update live. | [Live](https://clinicq-84sn.onrender.com) · [Code](https://github.com/astitwaroy/clinicq) |
+| 🎓 **ScholarBuddy** | An AI assistant that helps students find scholarships they qualify for, with answers cited from official guidelines. | [Live](https://scholarsathi.onrender.com) · [Code](https://github.com/astitwaroy/ScholarBuddy) |
+| 🦾 **ServoLab** | A robot-arm simulation that tracks a moving target in real time, right in your browser. | [Live](https://astitwaroy.github.io/Visual-servoing-2D-arm-simulation/) · [Code](https://github.com/astitwaroy/Visual-servoing-2D-arm-simulation) |
+
+---
+
+### 🧠 Interest areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Retrieval--Augmented%20Generation-161b22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Large%20Language%20Models-161b22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-161b22?style=for-the-badge" />
+  <br>
+  <img src="https://img.shields.io/badge/Backend%20%26%20System%20Design-161b22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Distributed%20Systems-161b22?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Competitive%20Programming-161b22?style=for-the-badge" />
+</p>
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+</p>
+
+### 🧰 Languages & tools I've worked with
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,ts,js,kotlin,html,css&theme=dark" />
+  <br><br>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,postgres,opencv,docker,git,github,linux,vscode&theme=dark" />
+</p>
+
+---
+
+### 📊 Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=astitwaroy&hide_border=true&background=0D1117&ring=8FB3FF&fire=8FB3FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8FB3FF&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=astitwaroy&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=8fb3ff&icon_color=8fb3ff&text_color=c9d1d9&ring_color=8fb3ff" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astitwaroy&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=8fb3ff&text_color=c9d1d9" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=RockkLee&theme=github_dark" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astitwaroy&bg_color=0d1117&color=c9d1d9&line=8fb3ff&point=e6edf3&area=true&area_color=8fb3ff&hide_border=true" width="95%" />
+</p>
+
+### 🐍 Contribution activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/astitwaroy/astitwaroy/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/astitwaroy/astitwaroy/output/github-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/astitwaroy/astitwaroy/output/github-snake.svg" />
+  </picture>
+</p>
+
+---
+
+<p align="center">
+  <i>"First, solve the problem. Then, write the code."</i><br>
+  <sub>— John Johnson</sub>
+</p>
+
+<p align="center">
+  <sub>Open to internships, full-time roles and backend collaborations. Reach me on <a href="https://www.linkedin.com/in/astitwa-kumar-ray-8a7656291/">LinkedIn</a>.</sub>
+</p>
