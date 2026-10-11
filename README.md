@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.jpg" alt="Astitwa Ray" width="100%" />
+  <img src="./assets/banner.jpg" alt="Astitwa Ray banner" width="100%" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Astitwa Kumar Ray</h2>
@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=8FB3FF&center=true&vCenter=true&width=560&height=30&lines=Building+software+real+people+use;Exploring+RAG%2C+LLMs+%26+Computer+Vision;1000%2B+DSA+problems+and+counting" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1200&color=E5484D&center=true&vCenter=true&width=560&height=30&lines=Building+software+real+people+use;Exploring+RAG%2C+LLMs+%26+Computer+Vision;1000%2B+DSA+problems+and+counting" />
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/astitwa-kumar-ray-8a7656291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/RockkLee"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="https://leetcode.com/u/astitwaroyy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
@@ -28,8 +28,8 @@ Outside of projects, I solve algorithm problems for fun, with **1000+ DSA and co
 
 <p align="center">
   <img src="https://img.shields.io/badge/Codeforces-1473%20%C2%B7%20max%201536-1F8ACB?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/LeetCode-1638-FFA116?style=flat-square&labelColor=161b22" />
-  <img src="https://img.shields.io/badge/Problems%20solved-1000%2B-8FB3FF?style=flat-square&labelColor=161b22" />
+  <a href="https://leetcode.com/u/astitwaroyy/"><img src="https://img.shields.io/badge/LeetCode-1638-FFA116?style=flat-square&labelColor=161b22" /></a>
+  <img src="https://img.shields.io/badge/Problems%20solved-1000%2B-E5484D?style=flat-square&labelColor=161b22" />
 </p>
 
 ---
@@ -86,20 +86,21 @@ Outside of projects, I solve algorithm problems for fun, with **1000+ DSA and co
 ### 📊 Analytics
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=astitwaroy&hide_border=true&background=0D1117&ring=8FB3FF&fire=8FB3FF&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=8FB3FF&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
+  <img src="https://streak-stats.demolab.com/?user=astitwaroy&hide_border=true&background=0D1117&ring=E5484D&fire=E5484D&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=E5484D&sideLabels=8B949E&dates=8B949E&stroke=30363D" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=astitwaroy&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=8fb3ff&icon_color=8fb3ff&text_color=c9d1d9&ring_color=8fb3ff" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astitwaroy&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=8fb3ff&text_color=c9d1d9" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=astitwaroy&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=e5484d&icon_color=e5484d&text_color=c9d1d9&ring_color=e5484d" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=astitwaroy&layout=compact&hide_border=true&langs_count=6&bg_color=0d1117&title_color=e5484d&text_color=c9d1d9" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=RockkLee&theme=github_dark" height="165" />
+  <a href="https://codeforces.com/profile/RockkLee"><img src="https://codeforces-readme-stats.vercel.app/api/card?username=RockkLee&theme=github_dark" height="165" /></a>
+  <a href="https://leetcode.com/u/astitwaroyy/"><img src="https://leetcard.jacoblin.cool/astitwaroyy?theme=dark&font=Inter&ext=contest" height="165" /></a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astitwaroy&bg_color=0d1117&color=c9d1d9&line=8fb3ff&point=e6edf3&area=true&area_color=8fb3ff&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astitwaroy&bg_color=0d1117&color=c9d1d9&line=e5484d&point=e6edf3&area=true&area_color=e5484d&hide_border=true" width="95%" />
 </p>
 
 ### 🐍 Contribution activity
