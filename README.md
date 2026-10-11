@@ -27,7 +27,8 @@ I'm a final-year Computer Science student at **NIT Silchar** who enjoys turning 
 Outside of projects, I solve algorithm problems for fun, with **1000+ DSA and competitive programming problems** solved so far.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Codeforces-1473%20%C2%B7%20max%201536-1F8ACB?style=flat-square&labelColor=161b22" />
+  <a href="https://codeforces.com/profile/RockkLee"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DRockkLee&query=%24.result%5B0%5D.rating&label=Codeforces&color=1F8ACB&style=flat-square&labelColor=161b22&cacheSeconds=21600" /></a>
+  <a href="https://codeforces.com/profile/RockkLee"><img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fcodeforces.com%2Fapi%2Fuser.info%3Fhandles%3DRockkLee&query=%24.result%5B0%5D.maxRating&label=Codeforces%20max&color=1F8ACB&style=flat-square&labelColor=161b22&cacheSeconds=21600" /></a>
   <a href="https://leetcode.com/u/astitwaroyy/"><img src="https://img.shields.io/badge/LeetCode-1638-FFA116?style=flat-square&labelColor=161b22" /></a>
   <img src="https://img.shields.io/badge/Problems%20solved-1000%2B-E5484D?style=flat-square&labelColor=161b22" />
 </p>
@@ -100,10 +101,10 @@ Outside of projects, I solve algorithm problems for fun, with **1000+ DSA and co
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=astitwaroy&bg_color=0d1117&color=c9d1d9&line=e5484d&point=e6edf3&area=true&area_color=e5484d&hide_border=true" width="95%" />
+  <img src="https://raw.githubusercontent.com/astitwaroy/astitwaroy/output/activity-graph.svg" alt="Contribution activity, last 31 days" width="95%" />
 </p>
 
-### 🐍 Contribution activity
+### 🐍 Contribution snake
 
 <p align="center">
   <picture>
