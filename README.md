@@ -1,6 +1,6 @@
 <!-- ====== HEADER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:58a6ff&height=200&section=header&text=Astitwa%20Roy&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=backend%20%E2%80%A2%20systems%20%E2%80%A2%20competitive%20programming&descAlignY=58&descSize=16&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:3d59a1,100:58a6ff&height=200&section=header&text=Astitwa%20Kumar%20Ray&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=backend%20%E2%80%A2%20systems%20%E2%80%A2%20competitive%20programming&descAlignY=58&descSize=16&animation=fadeIn" />
 </p>
 
 <p align="center">
